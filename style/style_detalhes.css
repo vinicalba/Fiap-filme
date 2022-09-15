@@ -129,14 +129,12 @@ a{
 
 .botao{
     background-color: var(--cor-primaria);
-    padding: 5px 20px;
+    padding: 5px 30px;
     border-radius: 5px;
     margin: 0 .7rem;
     transition: box-shadow .5s ease-in-out;
     position: relative;
     font-family: var(--font);
-
-    
 }
 
 .botao:hover{
@@ -222,3 +220,7 @@ h3{
     padding-left: 15px;
 }
 
+.site{
+    position: absolute;
+    left: 3px;
+}

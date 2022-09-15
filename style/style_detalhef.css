@@ -129,7 +129,7 @@ a{
 
 .botao{
     background-color: var(--cor-primaria);
-    padding: 5px 20px;
+    padding: 5px 30px;
     border-radius: 5px;
     margin: 0 .7rem;
     transition: box-shadow .5s ease-in-out;
@@ -220,4 +220,9 @@ h3{
     color: #8D8D8D;
     
     padding-left: 15px;
+}
+
+.site{
+    position: absolute;
+    left: 3px;
 }
